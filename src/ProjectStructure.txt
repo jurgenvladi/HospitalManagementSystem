@@ -1,0 +1,11 @@
+// Project Structure:
+// src/
+//   ├── model/
+//   │   ├── Patient.java
+//   │   └── EmergencyPatient.java
+//   ├── datastructures/
+//   │   ├── PatientLinkedList.java
+//   │   ├── EmergencyQueue.java
+//   │   └── DischargeStack.java
+//   └── system/
+//       └── HospitalManagementSystem.java
